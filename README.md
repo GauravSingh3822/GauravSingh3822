@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/GauravSingh3822/GauravSingh3822/main/narrow_github_banner.webp)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="550" src="https://camo.githubusercontent.com/7c71f1e93aa6c389959f24c21de190049637c6425beee5b7dfdff09c1d3e7a60/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d31303234253537362673736c3d31">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh3822&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh3822" /> </p>
 
 - 👯 I’m looking to collaborate on [Diabetic_Prediction](https://github.com/GauravSingh3822/Diabetics_Prediction_Project)
