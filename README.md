@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/GauravSingh3822/GauravSingh3822/main/DALL%C2%B7E%202024-08-13%2021.13.47%20-%20A%20GitHub%20banner%20featuring%20a%20futuristic%20theme%20with%20artificial%20intelligence%20and%20machine%20learning.%20It%20should%20have%20a%20purple%20and%20pink%20color%20scheme%20with%20a%20p.webp)]
+![MasterHead](https://raw.githubusercontent.com/GauravSingh3822/GauravSingh3822/main/DALL%C2%B7E%202024-08-13%2021.13.47%20-%20A%20GitHub%20banner%20featuring%20a%20futuristic%20theme%20with%20artificial%20intelligence%20and%20machine%20learning.%20It%20should%20have%20a%20purple%20and%20pink%20color%20scheme%20with%20a%20p.webp)
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate ML Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
