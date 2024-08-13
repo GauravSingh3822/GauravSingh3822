@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gaurav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurav singh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/gaurav singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaurav singh" height="30" width="40" /></a>
-<a href="https://fb.com/gauravsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gauravsingh" height="30" width="40" /></a>
-<a href="https://instagram.com/gauravsingh8588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravsingh8588" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/gauravsingh2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/gauravsingh2217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-singh-2b1665252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-singh-2b1665252/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gauravsingh2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gauravsingh2217" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100016222607367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100016222607367" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/gauravsingh8588/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gauravsingh8588/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mannusin458k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mannusin458k" height="30" width="40" /></a>
 </p>
 
@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsingh3822&show_icons=true&locale=en" alt="gauravsingh3822" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh3822&" alt="gauravsingh3822" /></p>
+
+
+
+
