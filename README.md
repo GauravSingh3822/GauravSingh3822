@@ -12,7 +12,6 @@
 - 📫 How to reach me **mannusingh2217@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravsingh2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsingh2217" height="30" width="40" /></a>
@@ -20,6 +19,8 @@
 <a href="https://kaggle.com/gauravsingh2217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gauravsingh2217" height="30" width="40" /></a>
 <a href="https://fb.com/gauravsinghhhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gauravsinghhhhhh" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravsingh8588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravsingh8588" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gauravsingh23341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravsingh23341" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pxp2wgrwlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pxp2wgrwlo" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mannusin458k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mannusin458k" height="30" width="40" /></a>
 </p>
 
@@ -31,6 +32,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsingh3822&show_icons=true&locale=en" alt="gauravsingh3822" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh3822&" alt="gauravsingh3822" /></p>
+
+
+
+
 
 
 
