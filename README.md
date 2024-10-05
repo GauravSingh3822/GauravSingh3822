@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh3822&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh3822" /> </p>
 - 👯 I’m looking to collaborate on [Diabetic_Prediction](https://github.com/GauravSingh3822/Diabetics_Prediction_Project)
 
-- 🤝 I’m looking for help with [Diamond_Price_Prediction](https://github.com/GauravSingh3822/Diamond_Price_Prediction_Project)
+- 🤝 I’m looking for help with [ANN_Project_Implementation](https://github.com/GauravSingh3822/ANN-Project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/GauravSingh3822](https://github.com/GauravSingh3822)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/GauravSingh3822)
 
 - 📫 How to reach me **mannusingh2217@gmail.com**
 
