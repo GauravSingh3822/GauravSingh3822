@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/GauravSingh3822/GauravSingh3822/main/narrow_github_banner.webp)
+![Java Backend Developer Banner](https://i.ibb.co/9HnXjGm/java-backend-developer-banner.png)
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">Java Backend Developer | Spring Boot & Microservices Enthusiast</h3>
@@ -9,11 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=gauravsingh3822&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsingh3822" /> 
 </p>
 
-- 👨‍💻 I’m currently working on **Spring Boot Microservices, Docker, Kubernetes, and AWS**
-- 👯 Looking to collaborate on **Backend + Cloud-native projects**
-- 📝 Exploring **System Design, DSA, and Distributed Systems**
-- 📫 Reach me at **mannusingh2217@gmail.com**
-- ⚡ Fun fact: **Code + Coffee ☕ = Happiness 😎**
+- 👨‍💻 I’m currently working on **Spring Boot Microservices, Docker, Kubernetes, and AWS**  
+- 👯 Looking to collaborate on **Backend + Cloud-native projects**  
+- 📝 Exploring **System Design, DSA, and Distributed Systems**  
+- 📫 Reach me at **mannusingh2217@gmail.com**  
+- ⚡ Fun fact: **Code + Coffee ☕ = Happiness 😎**  
 
 ---
 
