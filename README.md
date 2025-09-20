@@ -1,4 +1,4 @@
-![Java Backend Developer Banner](https://i.ibb.co/9HnXjGm/java-backend-developer-banner.png)
+![Java Backend Developer Banner](https://github.com/GauravSingh3822/GauravSingh3822/blob/main/IMG_0335.jpeg)
 
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">Java Backend Developer | Spring Boot & Microservices Enthusiast</h3>
