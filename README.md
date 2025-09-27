@@ -41,10 +41,15 @@
 </p>
 
 ---
-
 📊 **GitHub Stats**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsingh3822&show_icons=true&locale=en&layout=compact" alt="gauravsingh3822" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravSingh3822&show_icons=true&locale=en&layout=compact&count_private=true&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Langs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsingh3822&show_icons=true&locale=en" alt="gauravsingh3822" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravSingh3822&show_icons=true&locale=en&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh3822&" alt="gauravsingh3822" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh3822&theme=dark" alt="GitHub Streak" />
+</p>
