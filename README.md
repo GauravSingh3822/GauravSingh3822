@@ -42,14 +42,30 @@
 
 ---
 📊 **GitHub Stats**
+### 📊 GitHub Stats
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravSingh3822&show_icons=true&locale=en&layout=compact&count_private=true&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Langs" />
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravSingh3822&show_icons=true&locale=en&layout=compact&count_private=true&cache_seconds=1800&hide=javascript,css,html,jupyter%20notebook"
+       alt="Top Langs" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravSingh3822&show_icons=true&locale=en&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=GauravSingh3822&show_icons=true&locale=en&count_private=true&cache_seconds=1800"
+       alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh3822&theme=dark" alt="GitHub Streak" />
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh3822&theme=dark"
+       alt="GitHub Streak" />
 </p>
+
+---
+
+### 🌱 Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
