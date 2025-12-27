@@ -457,20 +457,6 @@ graph TB
 </tr>
 </table>
 
----
-
-### 📂 Additional Microservices Components
-
-<div align="center">
-
-[![Payment Gateway](https://github-readme-stats.vercel.app/api/pin/?username=GauravSingh3822&repo=payment-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/GauravSingh3822/payment-gateway)
-[![Notification Service](https://github-readme-stats.vercel.app/api/pin/?username=GauravSingh3822&repo=notification-service&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/GauravSingh3822/notification-service)
-
-[![API Gateway](https://github-readme-stats.vercel.app/api/pin/?username=GauravSingh3822&repo=api-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/GauravSingh3822/api-gateway)
-[![Service Registry](https://github-readme-stats.vercel.app/api/pin/?username=GauravSingh3822&repo=service-registry&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)](https://github.com/GauravSingh3822/service-registry)
-
-</div>
-
 </div>
 
 ---
@@ -733,20 +719,68 @@ Docker             1 hr 30 mins   █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✨ Daily Inspiration
+
+![Running Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Write+code+for+humans%2C+not+machines.;Solve+the+problem+before+writing+code.;Clean+code+is+maintainable+code.;Design+for+scale%2C+security%2C+and+clarity.)
+
+</div>
+
+---
 
 ### 🎯 My Development Philosophy
 
-> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**  
-> — Martin Fowler
+<table>
+<tr>
 
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+<br/><b>Code Quality</b><br/>
+<em>"Any fool can write code that a computer can understand.  
+Good programmers write code that humans can understand."</em><br/>
+— Martin Fowler
+</td>
 
-> **"Code is like humor. When you have to explain it, it's bad."**  
-> — Cory House
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/brain.png" width="60"/>
+<br/><b>Problem Solving</b><br/>
+<em>"First, solve the problem. Then, write the code."</em><br/>
+— John Johnson
+</td>
 
-</div>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/code-file.png" width="60"/>
+<br/><b>Clean Code</b><br/>
+<em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
+— Cory House
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/speed.png" width="60"/>
+<br/><b>Continuous Learning</b><br/>
+<em>"The only way to go fast, is to go well."</em><br/>
+— Robert C. Martin
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/system-task.png" width="60"/>
+<br/><b>Best Practices</b><br/>
+<em>"Make it work, make it right, make it fast."</em><br/>
+— Kent Beck
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/test-tube.png" width="60"/>
+<br/><b>Testing</b><br/>
+<em>"Testing leads to failure, and failure leads to understanding."</em><br/>
+— Burt Rutan
+</td>
+
+</tr>
+</table>
 
 ---
 
