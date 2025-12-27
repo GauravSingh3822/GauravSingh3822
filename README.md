@@ -798,45 +798,39 @@ Good programmers write code that humans can understand."</em><br/>
 
 ---
 
-## 📫 Let's Collaborate!
+## 📫 Let's Collaborate
 
-<div align="center">
+### 🌟 Open to Impactful Opportunities
 
-### 🌟 Open to Opportunities
-
-I'm actively looking for opportunities to:
-- 🚀 Work on challenging **microservices architecture** projects
-- 💼 Collaborate on **enterprise Java applications**
-- 🎓 **Mentor** aspiring backend developers
-- 📝 **Contribute** to open-source Spring ecosystem
-- 🗣️ **Speak** at tech conferences and meetups
-
-### ✉️ Get in Touch
-
-📧 **Email:** [mannusingh2217@gmail.com](mailto:mannusingh2217@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/gaurav-singh-2b1665252)  
-🐦 **Twitter:** [@GauravSinghDev](https://twitter.com/GauravSinghDev)  
-🌐 **Portfolio:** [gauravsingh.dev](https://gauravsingh.dev)
-
-### ⭐ Show Some Love
-
-**If you find my work interesting or helpful:**
-- ⭐ Star my repositories
-- 🍴 Fork and contribute
-- 📢 Share with your network
-- 💬 Reach out for collaboration
-
-</div>
+I’m open to collaborating on:
+- 🚀 **Microservices & distributed systems** at scale
+- 💼 **Enterprise Java / Spring Boot** applications
+- 🧩 **System design & backend architecture**
+- 🎓 **Mentoring** backend engineers
+- 📝 **Open-source contributions** in the Spring ecosystem
+- 🗣️ **Technical talks** and knowledge sharing
 
 ---
 
-<div align="center">
+### ✉️ Get in Touch
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+- 📧 **Email:** [mannusingh2217@gmail.com](mailto:mannusingh2217@gmail.com)  
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/gaurav-singh-2b1665252)  
+- 🐦 **X (Twitter):** [@GauravSinghDev](https://twitter.com/GauravSinghDev)
 
-<img src="https://visitcount.itsvg.in/api?id=GauravSingh3822&label=Profile%20Views&color=12&icon=5&pretty=true" />
+---
 
-<br/>
+### ⭐ Support & Collaboration
+
+If you find my work useful:
+- ⭐ Star repositories you like  
+- 🍴 Fork and contribute  
+- 💬 Reach out for collaboration or discussion  
+
+
+---
+
+
 
 ### 💙 Thank you for visiting my profile!
 
@@ -982,5 +976,14 @@ The workflow will automatically update your coding stats daily!
 [![Made with ❤️ by Gaurav Singh](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/GauravSingh3822)
 [![Java](https://img.shields.io/badge/Powered%20by-Java-ED8B00?style=for-the-badge&logo=openjdk)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Built%20with-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot)](https://spring.io)
+
+</div>
+
+---
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+<img src="https://visitcount.itsvg.in/api?id=GauravSingh3822&label=Profile%20Views&color=12&icon=5&pretty=true" />
 
 </div>
