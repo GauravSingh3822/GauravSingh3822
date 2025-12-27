@@ -282,13 +282,13 @@ graph TB
 ## 📊 GitHub Analytics & Statistics
 
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/GauravSingh3822">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh3822&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Stats"/>
 </a>
 
-</div>
+</div> -->
 
 <div align="center">
 
