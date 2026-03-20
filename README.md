@@ -4,7 +4,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gaurav%20Singh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 <!-- Typing SVG with working animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Senior+Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+Architect+%E2%98%81%EF%B8%8F;Cloud+Native+Applications+Expert+%F0%9F%8C%90;Building+Scalable+Distributed+Systems+%F0%9F%93%88;Enterprise+Solutions+Architect+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+Architect+%E2%98%81%EF%B8%8F;Cloud+Native+Applications+Expert+%F0%9F%8C%90;Building+Scalable+Distributed+Systems+%F0%9F%93%88;Enterprise+Solutions+Architect+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
